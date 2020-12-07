@@ -2,6 +2,6 @@
 
 # Dev Sticks
 
-An online repository of developer community stickers of languages, frameworks, developer events, etc.
+An online repository of free developer community stickers of languages, frameworks, developer events, etc.
 
 Learn more about contributing/submitting an icon [here]().
